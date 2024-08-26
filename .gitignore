@@ -1,0 +1,12 @@
+Compiler
+*.ll
+!template.ll
+!operators.ll
+!conditional.ll
+!while.ll
+!functions.ll
+!arrays.ll
+*.o
+*.out
+*.hi
+*.s
